@@ -17,9 +17,9 @@ Just like ["HostConnection"] (https://github.com/SenSaa/HostConnection), it acce
 
 2) Start the client application ["ConnectToHost"] (https://github.com/SenSaa/ConnectToHost).
 
-3) Follow the steps on listed [there] (https://github.com/SenSaa/ConnectToHost) until step 4.
+3) Follow the steps listed [there] (https://github.com/SenSaa/ConnectToHost) until step 4.
 
-4) After the client-side sends a message, press "Receive Message" button, which will display client message.
+4) After the client-side sends a message, on the server-side press "Receive Message" button, which will display client message.
 
 5) Now, on the text field on the top, write the message you want to send to the client, and press "Broadcast Message" button.
 
