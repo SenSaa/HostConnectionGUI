@@ -9,7 +9,7 @@ Just like ["HostConnection"] (https://github.com/SenSaa/HostConnection), it acce
 
 ![HostConnectionGUI] (http://i.imgur.com/2ZiuOyI.png "App Window")
 
-*** To use this application, you need a client application alongside it.
+*** To use this application, you need a client application alongside it to exchange messages.
 
 #How to use it with ConnectToHost android application:
 
