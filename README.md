@@ -1,13 +1,13 @@
 # HostConnectionGUI
 Server Application with GUI that interacts with a client application (Android ConnectToHost).
 
-This application is the Server element of the Server-Client duo (along with the Android application ["ConnectToHost"] (https://github.com/SenSaa/ConnectToHost)).
+This application is the Server element of the Server-Client duo (along with the Android application ["ConnectToHost"](https://github.com/SenSaa/ConnectToHost)).
 
-Just like ["HostConnection"] (https://github.com/SenSaa/HostConnection), it accepts client connection and excahnges messages, but with the addition of the GUI representation. 
+Just like ["HostConnection"](https://github.com/SenSaa/HostConnection), it accepts client connection and excahnges messages, but with the addition of the GUI representation. 
 
 --------------------------------------
 
-![HostConnectionGUI] (http://i.imgur.com/2ZiuOyI.png "App Window")
+![HostConnectionGUI](http://i.imgur.com/2ZiuOyI.png "App Window")
 
 *** To use this application, you need a client application alongside it to exchange messages.
 
@@ -15,9 +15,9 @@ Just like ["HostConnection"] (https://github.com/SenSaa/HostConnection), it acce
 
 1) Run this server application on an IDE/editor.
 
-2) Start the client application ["ConnectToHost"] (https://github.com/SenSaa/ConnectToHost).
+2) Start the client application ["ConnectToHost"](https://github.com/SenSaa/ConnectToHost).
 
-3) Follow the steps listed [there] (https://github.com/SenSaa/ConnectToHost) until step 4.
+3) Follow the steps listed [there](https://github.com/SenSaa/ConnectToHost) until step 4.
 
 4) After the client-side sends a message, on the server-side press "Receive Message" button, which will display client message.
 
